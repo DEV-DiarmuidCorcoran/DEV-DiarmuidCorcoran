@@ -1,40 +1,29 @@
 # Diarmuid W. Corcoran
 
-**Software Architecture Expert @ Ericsson** | **PhD in AI & Energy Efficient Software (KTH)**
+Software Architecture Expert at Ericsson | PhD in Artificial Intelligence and Energy Efficient Software (KTH)
 
-I am a senior software architect and researcher with over 30 years of experience driving the evolution of mobile technology. My work bridges the gap between large-scale distributed systems and state-of-the-art AI, focusing on creating intelligent, self-learning, and energy-efficient infrastructures for 5G and future 6G networks.
+Professional Overview
+I am a senior researcher and software architect with over three decades of experience driving the evolution of mobile technology. My work focuses on the intersection of large-scale distributed systems and advanced Artificial Intelligence, specifically the application of Deep Reinforcement Learning to optimize 5G and 6G radio access networks.
 
----
+Core Areas of Expertise
+- Deep Reinforcement Learning (DRL) for resource management and RAN automation.
+- Multi-Agent Reinforcement Learning (MARL) in distributed network environments.
+- Intelligent and Energy-Efficient Software Architectures for LTE and 5G/6G systems.
+- Strategic software leadership for large-scale, highly distributed software-intensive systems.
 
-### ðŸ¤– Core Expertise in AI & ML
+Research and Professional Background
+- Expert in Software Architecture at Ericsson: Leading software strategy and research initiatives since 1992, contributing to five generations of mobile technology from 2G to 6G.
+- Industrial PhD from KTH Royal Institute of Technology: Graduated May 2023, with research supported by the Wallenberg AI, Autonomous Systems and Software Program (WASP).
+- Focus: Bridging high-level software abstractions with low-level system performance on cloud-native and multi-core infrastructures.
 
-*   **Deep Reinforcement Learning (DRL):** Applying advanced DRL techniques to solve high-dimensional resource management and RAN automation problems.
-*   **Multi-Agent Systems:** Researching sample-efficient multi-agent approaches to continuous reinforcement learning for distributed network nodes.
-*   **Self-Learning Networks:** Architecting "Zero-Touch" network solutions that autonomously optimize performance and energy consumption.
-*   **Intelligent Software Architectures:** Designing the intersection of AI models and high-performance software abstractions in multi-core and cloud-native environments.
+Technical Proficiencies
+- AI and Machine Learning: Deep Reinforcement Learning, Multi-Agent Systems, Self-Learning Networks, Automated Parameter Tuning.
+- Software Engineering: Distributed Systems Architecture, Model-Driven Engineering, Cloud-Native Infrastructure, Real-Time Optimization.
+- Domain Expertise: 5G/6G Radio Access Networks (RAN), Energy-Efficient Computing, Telecommunications Strategy.
 
----
-
-### ðŸŒ Professional Background
-
-*   **Expert in Software Architecture @ Ericsson:** Driving global software strategy and research, spanning five generations of mobile technology (2G to 6G).
-*   **Industrial PhD @ KTH Royal Institute of Technology:** Research area focused on intelligent and energy-efficient software architectures for LTE and 5G radio systems (supported by WASP).
-*   **WASP Researcher:** Part of the Wallenberg Artificial Intelligence, Autonomous Systems and Software Program, Sweden's premier AI research initiative.
-
----
-
-### ðŸ› ï¸ Technical Toolkit
-
-*   **AI/ML:** Deep Reinforcement Learning, Multi-Agent Systems, Neural Networks, Automated Parameter Tuning.
-*   **Architecture:** Distributed Systems, Cloud-Native Infrastructure, Model-Driven Engineering, Real-Time Performance Optimization.
-*   **Domains:** 5G/6G Radio Access Networks (RAN), Energy Efficiency, High-Performance Computing.
-
----
-
-### ðŸ“« Connect with Me
-
-*   **LinkedIn:** [Diarmuid W. Corcoran](https://www.linkedin.com/in/diarmuid-w-corcoran/)
-*   **Location:** Stockholm, Sweden ðŸ‡¸ðŸ‡ª
+Contact and Connections
+- LinkedIn: https://www.linkedin.com/in/diarmuid-w-corcoran/
+- Location: Stockholm, Sweden
 
 ---
 
